@@ -18,16 +18,16 @@ You can click the Preview link to take a look at your changes.
 
 💻 Current working environments
 
-MacOS 13.1 Windows 11 Android 13
+MacOS 13 Windows 11 Android 13
 
 💻 Current Work Machine
 
 1) Custom PC Build
 
-Intel Core i3 6th Gen
-8GB DDR4 3200Mhz RAM
-512GB SATA SSD
-1TB HDD
+Intel Core i3 6th Gen <br>
+8GB DDR4 3200Mhz RAM <br>
+512GB SATA SSD <br>
+1TB HDD <br>
 
 2) M2 Macbook Air
 
