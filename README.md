@@ -31,7 +31,7 @@ Intel Core i3 6th Gen <br>
 
 2) M2 Macbook Air
 
-M2 Chip With 8 Core CPU & 8 Core GPU
-Apple M2 Chip
-16GB DDR5 6400Mhz RAM
-512GB SSD
+M2 Chip With 8 Core CPU & 8 Core GPU <br>
+Apple M2 Chip <br>
+16GB DDR5 6400Mhz RAM <br>
+512GB SSD <br>
