@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h2 align:"center"> 💻 Current working environments</h2>
+<h2 align="center"> 💻 Current working environments</h2>
 
 
 <h3>💻 Current Work Machine</h3>
