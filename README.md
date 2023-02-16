@@ -16,11 +16,8 @@ iamamitkukreja/iamamitkukreja is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<style>
-h2 {text-align: center;}
-</style>
 
-<center><h2> 💻 Current working environments</h2><center>
+<h2 align:"center"> 💻 Current working environments</h2>
 
 
 <h3>💻 Current Work Machine</h3>
