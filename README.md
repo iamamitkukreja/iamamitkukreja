@@ -16,10 +16,14 @@ iamamitkukreja/iamamitkukreja is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-💻 Current working environments
+<style>
+h2 {text-align: center;}
+</style>
+
+<center><h2> 💻 Current working environments</h2><center>
 
 
-💻 Current Work Machine
+<h3>💻 Current Work Machine</h3>
 
 1)  M2 Macbook Air (Primary)
 
