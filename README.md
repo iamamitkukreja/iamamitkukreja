@@ -5,7 +5,7 @@
 - 🌱 Languages I know are C, C++, Python, Java, Swift, & HTML
 - 💞️ I’m an avid learner and I've keen interest in Web Development, Android Development, & iOS or Mac Specific Development.
 - 👀 I am interested in Web Development Projeccts & Apple Swift.
-- 📱 Devices I own are Redmi Note 10 Pro Max.
+- 📱 Devices I own are Redmi Note 10 Pro Max, Realme 8i, & OnePlus 6.
 - 📫 You can reach me by my email address 'thenameisamitkukreja@gmail.com'.
 - 🌐 Lets Connect through LinkedIn, Twitter or Telegram.
 
@@ -22,16 +22,16 @@ MacOS 13 Windows 11 Android 13
 
 💻 Current Work Machine
 
-1) Custom PC Build
+1)  M2 Macbook Air (Primary)
 
-Intel Core i3 6th Gen <br>
-8GB DDR4 3200Mhz RAM <br>
-512GB SATA SSD <br>
-1TB HDD <br>
+- M2 Chip With 8 Core CPU & 8 Core GPU <br>
+- Apple M2 Chip <br>
+- 16GB DDR5 6400Mhz RAM <br>
+- 512GB SSD <br>
 
-2) M2 Macbook Air
+2) Custom PC Build (Secondary)
 
-M2 Chip With 8 Core CPU & 8 Core GPU <br>
-Apple M2 Chip <br>
-16GB DDR5 6400Mhz RAM <br>
-512GB SSD <br>
+- Intel Core i3 6th Gen <br>
+- 8GB DDR4 3200Mhz RAM <br>
+- 512GB SATA SSD <br>
+- 1TB HDD <br>
