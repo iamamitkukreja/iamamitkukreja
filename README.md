@@ -7,7 +7,7 @@
 - 👀 I am interested in Web Development Projeccts & Apple Swift.
 - 📱 Devices I own are Redmi Note 10 Pro Max, Realme 8i, & OnePlus 6.
 - 📫 You can reach me by my email address 'thenameisamitkukreja@gmail.com'.
-- 🌐 Lets Connect through LinkedIn, Twitter or Telegram.
+- 🌐 Lets Connect through <a href="https://www.linkedin.com/in/iamamitkukreja/">LinkedIn,</a> <a href="[[https://www.w3schools.com/]](https://twitter.com/iamamitkukreja/">Twitter, & </a> <a href="[https://www.t.me/iamamitkukreja/">Telegram</a>, 
 
 ✔️ Looking forward to achieve something :)
 
@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 
 💻 Current working environments
 
-MacOS 13 Windows 11 Android 13
 
 💻 Current Work Machine
 
